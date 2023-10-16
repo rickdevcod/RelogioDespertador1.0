@@ -1,2 +1,2 @@
 # RelogioDespertador1.0
-![Foto do projeto](picprojeto.PNG)
+![Foto do projeto](pic5.PNG)
